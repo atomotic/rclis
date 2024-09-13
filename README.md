@@ -1,4 +1,4 @@
-harvest oai with metha
+harvest oai with [metha](https://github.com/miku/metha)
 
 ```
 go install -v github.com/miku/metha/cmd/metha-sync@latest
